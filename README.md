@@ -1,2 +1,4 @@
-# WooCommerce Gateway Card Simulation
-Provides a dummy card payment gateway to simulate credit/debit card payment flow.
+# WooCommerce Debit & Credit Card Payment Gateway Simulation
+Provides a dummy / fake card payment gateway to simulate credit / debit card payment flow. 
+
+The plugins utilizes `WC_Payment_Gateway_CC` class. `WC_Payment_Gateway_CC` class contains the card payment html form & styles. 
